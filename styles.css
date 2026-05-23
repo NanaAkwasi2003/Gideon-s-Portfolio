@@ -56,6 +56,7 @@ ul{list-style:none}
 .nav-inner{max-width:1200px;margin:0 auto;padding:0 24px;height:68px;display:flex;align-items:center;justify-content:space-between;gap:20px}
 .logo{display:flex;align-items:center;gap:10px;font-weight:600}
 .logo-mark{display:inline-flex;align-items:center;justify-content:center;width:36px;height:36px;border-radius:10px;background:var(--gradient);color:#fff;font-family:"Space Grotesk";font-weight:700}
+.logo-icon{width:40px;height:40px;border-radius:10px;object-fit:cover;object-position:center}
 .nav-links{display:none;gap:28px}
 .nav-links a{font-size:14px;color:var(--muted);transition:color .2s}
 .nav-links a:hover{color:var(--fg)}
